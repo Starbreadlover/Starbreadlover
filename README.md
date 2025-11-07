@@ -1,6 +1,7 @@
 ## 🏅 Certifications
 
-### 📌 PyCon Davao 2025
-![PyCon Davao 2025 Certificate](PyConDavao2025.png)
+### 📌 PyCon Davao 2025  
+<img src="PyConDavao2025.png" width="600" style="border-radius:12px; box-shadow:0px 4px 10px rgba(0,0,0,0.25);">
 
-📄 **Download PDF:** [PyConDavao2025.pdf](PyConDavao2025.pdf)
+📄 **Download PDF:** 👉 [PyConDavao2025.pdf](PyConDavao2025.pdf)
+
